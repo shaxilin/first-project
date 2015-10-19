@@ -1,6 +1,3 @@
 <?php
 
-        echo 'ddd'; 
-        
-        
-        echo 'fenzhi1';
+            echo 'sha';
